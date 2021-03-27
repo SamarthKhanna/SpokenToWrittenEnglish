@@ -4,7 +4,7 @@ with open("README.md", "r", encoding = "utf-8") as ld:
     long_description = ld.read()
 
 setuptools.setup(
-    name = "spoke2writ",
+    name = "spoken2writ",
     version = 2.0,
     author = "Samarth Khanna",
     author_email = "samarthkhanna0@gmail.com",
