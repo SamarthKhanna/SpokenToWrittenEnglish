@@ -14,3 +14,7 @@ This is a library that converts spoken English (text) into the correct written E
 
 ## 4) Short form adjustemnt:
 - All short forms are printed in the appropriate manner without spaces in between. For example "A B C" will become "ABC".
+
+The code can be tested in the following manner (There seems to be a problem with the PyPI registraton at the moment, so it is suggested to download the /src/s2w_pkg/SpokenToWritten.py for now.
+![image](https://user-images.githubusercontent.com/59921667/112733407-e87e6b00-8f65-11eb-958d-6961c24198a9.png)
+
