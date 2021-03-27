@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as ld:
 
 setuptools.setup(
     name = "spoke2writ",
-    version = 1.0,
+    version = 2.0,
     author = "Samarth Khanna",
     author_email = "samarthkhanna0@gmail.com",
     description = "Package for spoken to written English conversion",
